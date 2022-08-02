@@ -23,7 +23,7 @@ section .scroll {
     display: flex;
     transform: rotate(0deg) translate(0px,0px);
     position: absolute;left: 98px;top: 0;
-    transform-origin: left top;  /* //중심이동*/
+    transform-origin: left top;  /* //중심이동, 수정했어요*/
 }
 
 section .scroll div {
